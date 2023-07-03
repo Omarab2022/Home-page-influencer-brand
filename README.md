@@ -1,8 +1,6 @@
 # Home-page-influencer-brand
 
-# Kasper Template 2
-
-This is the homepage for Kasper Template 2, a collaboration platform for influencers and brands. The platform aims to facilitate successful partnerships between influencers and brands, allowing them to create authentic and relevant projects for their audience. The goal is to help influencers create engaging and memorable content that aligns with their marketing objectives and meets the expectations of their audience.
+This is the homepage for  collaboration platform for influencers and brands. The platform aims to facilitate successful partnerships between influencers and brands, allowing them to create authentic and relevant projects for their audience. The goal is to help influencers create engaging and memorable content that aligns with their marketing objectives and meets the expectations of their audience.
 
 ## Features
 
